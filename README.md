@@ -1,6 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on a responsive web design project
-🌱 I’m currently learning to be a Full Stack Developer
+- 🔭 I’m currently working on a responsive web design project
+- - 🌱 I’m currently learning to be a Full Stack Developer
 
 <!--
 **realbluu/realbluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
